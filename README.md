@@ -18,6 +18,7 @@
 ## Contents
 - [Books](#books)
     - [Introduction](#introduction)
+    - [Analysis](#analysis)
 - [Institutes](#institutes)
 - [Papers](#papers)
 - [People](#people)
@@ -37,8 +38,12 @@
 
 ### Introduction
 
-- [Introduction to Information Science](https://www.amazon.co.uk/Introduction-Information-Science-David-Bawden-ebook/dp/B09D7KWFNB) - Gives a broad introduction to what information science is and the implication of information science as a whole.
+- [Introduction to information science](https://www.amazon.co.uk/Introduction-Information-Science-David-Bawden-ebook/dp/B09D7KWFNB)
 
+### Analysis
+
+- [A practical guide to semantic analysis](https://www.amazon.co.uk/Practical-Sentiment-Analysis-Socio-Affective-Computing-ebook/dp/B06Y64TWGZ/)
+- [Content Analysis](https://academic.oup.com/book/7841)
 
 ## Institutes
 
