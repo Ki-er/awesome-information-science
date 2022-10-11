@@ -65,6 +65,9 @@
 
 **[`^        back to top        ^`](#contents)**
 
+- [Donald O. Case](https://donaldocase.weebly.com/) - Researcher in information seeking and retrieval fields.
+- [Jenna Hartel](http://www.jennahartel.info/) - Researcher in information and higher things and the history of library and information sciences. She also has a Youtube channel where she breaks down information science found [here](https://www.youtube.com/c/INFideos).
+
 ## Videos
 
 **[`^        back to top        ^`](#contents)**
@@ -78,6 +81,7 @@
 **[`^        back to top        ^`](#contents)**
 
 - [Awesome Data Science](https://github.com/bulutyazilim/awesome-datascience)
+- [Awesome Information Retrieval](https://github.com/harpribot/awesome-information-retrieval)
 - [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning)
 - [Awesome Research](https://github.com/emptymalei/awesome-research)
 
