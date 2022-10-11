@@ -25,13 +25,6 @@
 
 ---
 
-## Academic Tools
-
-**[`^        back to top        ^`](#contents)**
-
-## Courses
-
-
 ## Books
 
 **[`^        back to top        ^`](#contents)**
