@@ -16,10 +16,11 @@
 
 
 ## Contents
-- [Courses](#courses)
 - [Books](#books)
     - [Introduction](#introduction)
     - [Analysis](#analysis)
+- [Blogs](#blogs)
+- [Courses](#courses)
 - [Institutes](#institutes)
 - [Papers](#papers)
 - [People](#people)
