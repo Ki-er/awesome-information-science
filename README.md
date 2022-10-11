@@ -44,6 +44,7 @@
 
 - [A practical guide to semantic analysis](https://www.amazon.co.uk/Practical-Sentiment-Analysis-Socio-Affective-Computing-ebook/dp/B06Y64TWGZ/)
 - [Content Analysis](https://academic.oup.com/book/7841)
+- [The content analysis guidebook](https://www.amazon.co.uk/Content-Analysis-Guidebook-Neuendorf-Kimberly-ebook/dp/B01FOAQI88)
 
 ## Institutes
 
