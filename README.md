@@ -16,6 +16,7 @@
 
 
 ## Contents
+- [Courses](#courses)
 - [Books](#books)
     - [Introduction](#introduction)
     - [Analysis](#analysis)
@@ -25,6 +26,7 @@
 - [Videos](#videos)
 
 ---
+
 
 ## Books
 
@@ -44,6 +46,15 @@
 
 - [Looking for Information: A Survey of Research on Information Seeking, Needs, and Behavior (Studies in Information)](https://www.amazon.co.uk/Looking-Information-Research-Seeking-Behavior-ebook/dp/B01FUV6BIS/)
 - [Theories in Information Behavior](https://www.amazon.co.uk/Theories-Information-Behavior-Asist-Monograph/dp/157387230X/)
+
+## Blogs
+
+**[`^        back to top        ^`](#contents)**
+
+## Courses
+
+**[`^        back to top        ^`](#contents)**
+
 
 ## Institutes
 
