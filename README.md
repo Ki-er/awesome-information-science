@@ -16,9 +16,8 @@
 
 
 ## Contents
-
-- [Academic Tools](#academic-tools)
 - [Books](#books)
+    - [Introduction](#introduction)
 - [Institutes](#institutes)
 - [Papers](#papers)
 - [People](#people)
@@ -29,9 +28,16 @@
 
 **[`^        back to top        ^`](#contents)**
 
+## Courses
+
+
 ## Books
 
 **[`^        back to top        ^`](#contents)**
+
+### Introduction
+
+- [Introduction to Information Science](https://www.amazon.co.uk/Introduction-Information-Science-David-Bawden-ebook/dp/B09D7KWFNB) - Gives a broad introduction to what information science is and the implication of information science as a whole.
 
 
 ## Institutes
