@@ -18,7 +18,13 @@
 
 ## Institutes
 
+- [Strathclyde iSchool](https://www.strath.ac.uk/research/subjects/computerinformationscience/strathclydeischoolresearchgroup/) - Research group at the University of Strathclyde researching information behaviour, retrieval, engagement and ethics.
+
 ## Papers
+
+### Information Analysis 
+
+### Information Behaviour
 
 ## People
 
