@@ -19,6 +19,7 @@
 - [Books](#books)
     - [Introduction](#introduction)
     - [Analysis](#analysis)
+    - [Information Behaviour](#information-behaviour)
 - [Blogs](#blogs)
 - [Courses](#courses)
 - [Institutes](#institutes)
@@ -56,6 +57,10 @@
 
 **[`^        back to top        ^`](#contents)**
 
+### Postgraduate / Masters
+- [MSc Information Science](https://www.city.ac.uk/prospective-students/courses/postgraduate/information-science)
+- [MSc/PGDip Information Management](https://www.sheffield.ac.uk/postgraduate/taught/courses/2023/information-management-msc-pg-certificate-pg-diploma)
+- [MSc/PgDip Information & Library Studies](https://www.strath.ac.uk/courses/postgraduatetaught/informationlibrarystudies/)
 
 ## Institutes
 
