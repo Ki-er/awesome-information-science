@@ -69,6 +69,10 @@
 
 **[`^        back to top        ^`](#contents)**
 
+### General Information Science
+
+- [Information Science Road Trip (10 Big Ideas of Information Science)](https://www.youtube.com/watch?v=9p50rd0zBTk&ab_channel=INFIDEOS) - Compacts information science into 10 theories and ideas.
+
 ## Related
 
 **[`^        back to top        ^`](#contents)**
