@@ -22,6 +22,7 @@
 - [Institutes](#institutes)
 - [Papers](#papers)
 - [People](#people)
+- [Videos](#videos)
 
 ---
 
@@ -61,6 +62,10 @@
 ### Information Behaviour
 
 ## People
+
+**[`^        back to top        ^`](#contents)**
+
+## Videos
 
 **[`^        back to top        ^`](#contents)**
 
