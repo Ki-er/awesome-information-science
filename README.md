@@ -1,18 +1,19 @@
 <div align="center">
 
-![image](https://user-images.githubusercontent.com/32241933/195061860-d249521b-80b9-417d-b69f-a58ff1af4911.png)
+<img src="https://user-images.githubusercontent.com/32241933/195061860-d249521b-80b9-417d-b69f-a58ff1af4911.png">
 
-# Awesome Information Science 
+<h1>Awesome Information Science</h1>
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 </div>
 
-</center>
 
 ---
 
 > [Information science](https://en.wikipedia.org/wiki/Information_science) (also known as information studies) is an academic field which is primarily concerned with analysis, collection, classification, manipulation, storage, retrieval, movement, dissemination, and protection of information.
+
+
 
 ## Contents
 
