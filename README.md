@@ -77,6 +77,7 @@
 
 - [Awesome Data Science](https://github.com/bulutyazilim/awesome-datascience)
 - [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning)
+- [Awesome Research](https://github.com/emptymalei/awesome-research)
 
 # Contributing 
 
