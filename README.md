@@ -117,7 +117,7 @@ Contributors are welcome! See [Contributing.md](.github/CONTRIBUTING.md).
 
 <img src="https://camo.githubusercontent.com/b52f6851cd7894c7794fb13d4a17ded958237f08acd57d66f17836e9ba22733b/68747470733a2f2f6d6972726f72732e6372656174697665636f6d6d6f6e732e6f72672f70726573736b69742f627574746f6e732f38387833312f7376672f63632d7a65726f2e737667">
 
-awesome-information-science is licensed under Creative Commons CC0 1.0 Universal (CC-0). Tldr legal have a great [summary](https://www.tldrlegal.com/l/cc0-1.0) if you are interested.
+awesome-information-science is licensed under Creative Commons CC0 1.0 Universal (CC-0). Tldr legal have a great [summary](https://www.tldrlegal.com/l/cc0-1.0) if you are interested.  
 
 To the extent possible under law, [Kieran Robson](https://github.com/KieranRobson) has waived all copyright and related or neighboring rights to this work.
 
