@@ -4,7 +4,7 @@
 
 <h1>Awesome Information Science</h1>
 
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+<img src="https://awesome.re/badge.svg"><a href="https://awesome.re"><img /></a>
 
 </div>
 
