@@ -25,6 +25,7 @@
 - [Institutes](#institutes)
 - [Papers](#papers)
 - [People](#people)
+- [Tools and Websites]()
 - [Videos](#videos)
 
 ---
@@ -84,6 +85,12 @@
 
 - [Donald O. Case](https://donaldocase.weebly.com/) - Researcher in information seeking and retrieval fields.
 - [Jenna Hartel](http://www.jennahartel.info/) - Researcher in information and higher things and the history of library and information sciences. She also has a Youtube channel where she breaks down information science found [here](https://www.youtube.com/c/INFideos).
+
+## Tools and Websites
+
+**[`^        back to top        ^`](#contents)**
+
+- [Library and Information Science Abstracts](https://about.proquest.com/en/products-services/lisa-set-c/) - A collection of information science articles and abstracts.
 
 ## Videos
 
