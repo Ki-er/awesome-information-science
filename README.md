@@ -46,6 +46,11 @@
 - [Content Analysis](https://academic.oup.com/book/7841)
 - [The content analysis guidebook](https://www.amazon.co.uk/Content-Analysis-Guidebook-Neuendorf-Kimberly-ebook/dp/B01FOAQI88)
 
+### Information Behaviour
+
+- [Looking for Information: A Survey of Research on Information Seeking, Needs, and Behavior (Studies in Information)](https://www.amazon.co.uk/Looking-Information-Research-Seeking-Behavior-ebook/dp/B01FUV6BIS/)
+- [Theories in Information Behavior](https://www.amazon.co.uk/Theories-Information-Behavior-Asist-Monograph/dp/157387230X/)
+
 ## Institutes
 
 **[`^        back to top        ^`](#contents)**
