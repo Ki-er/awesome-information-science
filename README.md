@@ -1,5 +1,5 @@
 # Awesome Information Science <img src="https://awesome.re/badge.svg"><a href="https://awesome.re"><img /></a>
->  curated list of information science books, tools and resources.
+> A curated list of information science books, tools and resources.
 
 --- 
 
@@ -12,9 +12,6 @@ Contributors are welcome! See [Contributing.md](.github/CONTRIBUTING.md).
 
 ## Contents
 - [Books](#books)
-    - [Introduction](#introduction)
-    - [Analysis](#analysis)
-    - [Information Behaviour](#information-behaviour)
 - [Blogs](#blogs)
 - [Courses](#courses)
 - [Institutes](#institutes)
