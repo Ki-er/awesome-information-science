@@ -12,8 +12,7 @@
 ---
 
 > [Information science](https://en.wikipedia.org/wiki/Information_science) (also known as information studies) is an academic field which is primarily concerned with analysis, collection, classification, manipulation, storage, retrieval, movement, dissemination, and protection of information.
-
-> Although [data science](https://en.wikipedia.org/wiki/Data_science) and Information science may seem to be similar, data science is heavier on mathematics and computer science while information science is more concerned with areas such as [library sciences](https://en.wikipedia.org/wiki/Library_science), [cognitive science](https://en.wikipedia.org/wiki/Cognitive_science) and communication. Awesome lists related to these other areas can be found under the [Related Heading](##Related)
+> Although [data science](https://en.wikipedia.org/wiki/Data_science) and Information science may seem to be similar, data science is heavier on mathematics and computer science while information science is more concerned with areas such as [library sciences](https://en.wikipedia.org/wiki/Library_science), [cognitive science](https://en.wikipedia.org/wiki/Cognitive_science) and communication. Awesome lists related to these other areas can be found under the [Related Heading](##Related).
 
 Contributors are welcome! See [Contributing.md](.github/CONTRIBUTING.md).
 
