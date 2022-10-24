@@ -17,7 +17,7 @@ Contributors are welcome! See [Contributing.md](.github/CONTRIBUTING.md).
 - [Institutes](#institutes)
 - [Papers](#papers)
 - [People](#people)
-- [Tools and Websites]()
+- [Tools and Websites](#tools-and-websites)
 - [Videos](#videos)
 
 ---
