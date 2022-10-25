@@ -46,6 +46,8 @@ Contributors are welcome! See [Contributing.md](.github/CONTRIBUTING.md).
 
 **[`^        back to top        ^`](#contents)**
 
+[Strathclyde ischool](https://www.strathclyde-ischool.blog/) - The University of Strathclyde's iSchool blog.
+
 ## Courses
 
 **[`^        back to top        ^`](#contents)**
