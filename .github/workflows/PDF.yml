@@ -1,0 +1,30 @@
+# Generates and saved a PDF document from the main markdown file
+# Easier to read on certain devices, or for users with accesibility needs
+
+name: Compile PDF Document
+
+on:
+  push:
+    branches:
+      - 'master'
+
+jobs:
+  # Job #1 - Generate an embedded SVG asset, showing all contributors
+  compile-pdf:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout 
+        uses: actions/checkout@v2
+      - name: Make PDF 
+        uses: baileyjm02/markdown-to-pdf@v1.1.0
+        with:
+          input_dir: .
+          output_dir: .github/assets/
+          build_pdf: true
+          build_html: false
+          table_of_contents: false
+      - name: Upload Artifact 📤
+        uses: actions/upload-artifact@v3.1.1
+        with:
+          name: awesome-information-pdf
+          path: .github/assets/README.pdf
