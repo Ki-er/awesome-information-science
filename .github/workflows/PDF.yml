@@ -11,12 +11,12 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout 
-        uses: actions/checkout@v2
+        uses: actions/checkout@v3
       - name: Make PDF 
         uses: baileyjm02/markdown-to-pdf@v1.1.0
         with:
           input_dir: .
-          output_dir: .github/assets/
+          output_dir: .
           build_pdf: true
           build_html: false
           table_of_contents: false
@@ -24,17 +24,17 @@ jobs:
         uses: actions/upload-artifact@v3.1.1
         with:
           name: awesome-information-pdf
-          path: .github/assets/README.pdf
-      - name: Commit file 
+          path: .github/assets/README.pdf7
+      -name: Commit
         uses: stefanzweifel/git-auto-commit-action@v4
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           commit_message: Create PDF
           branch: main
-          commit_user_name: GitHub Bot
+          commit_user_name: actions 🤖
           commit_user_email: actions@github.com
-          commit_author: action
+          commit_author: actions-bot 🤖 <actions@github.com>
       - name: Push changes 
         uses: ad-m/github-push-action@master
         with:
