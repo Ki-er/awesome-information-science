@@ -28,6 +28,16 @@ jobs:
         with:
           name: awesome-information-pdf
           path: .github/assets/README.pdf
+      - name: Commit file 
+        uses: stefanzweifel/git-auto-commit-action@v4
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          commit_message: Create PDF
+          branch: main
+          commit_user_name: GitHub Bot
+          commit_user_email: actions@github.com
+          commit_author: action
       - name: Push changes 
         uses: ad-m/github-push-action@master
         with:
