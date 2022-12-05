@@ -1,12 +1,9 @@
-# Generates and saved a PDF document from the main markdown file
-# Easier to read on certain devices, or for users with accesibility needs
-
 name: Compile PDF Document
 
 on:
   push:
     branches:
-      - 'master'
+      - 'main'
 
 jobs:
   # Job #1 - Generate an embedded SVG asset, showing all contributors
